@@ -1,6 +1,6 @@
-# 码志
+# 哈七的个人博客
 
-我的个人博客：<http://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<https://sobrave.github.io>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -16,7 +16,9 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](http://mazhuang.org)**
+**[在线预览 &rarr;](https://sobrave.github.io)**
+
+显然下面的截图是别人的论坛，稍后改成自己的
 
 ![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
 
