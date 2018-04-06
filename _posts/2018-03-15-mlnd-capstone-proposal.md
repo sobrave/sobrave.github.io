@@ -1,15 +1,13 @@
 ---
 layout: post
-title: 优达学城机器学习毕业设计开题报告
+title: Kaggle猫狗大战
 categories: Deep-Learning 
-description: 猫狗大战开题报告
+description: 猫狗大战项目报告
 keywords: Keras，卷积神经网络，迁移学习
 ---
 
-# 机器学习（进阶）纳米学位
-## 开题报告
-wang ruiqi  
-2018年3月15日
+# Kaggle猫狗大战
+## 项目报告
 
 ​	在本次项目中，将主要采用卷积神经网络和迁移学习的方法来实现猫狗图片的识别任务。
 
@@ -64,7 +62,7 @@ wang ruiqi
 
 ### 解决方案描述
 
-​	项目本身将采用Keras+Tensorflow+aws x2.large服务器来完成
+​	项目本身将采用Keras+Tensorflow+aws p2.xlarge服务器来完成
 
 ### 基准模型
 
@@ -78,7 +76,10 @@ wang ruiqi
 
 ​	本次项目以Kaggle官方提出的对数损失的评价标准，项目要求分数应进前10%，大约分数在0.05左右能够满足要求。
 
-​	                                           $$\textrm{LogLoss} = - \frac{1}{n} \sum_{i=1}^n \left[ y_i \log(\hat{y}_i) + (1 - y_i) \log(1 - \hat{y}_i)\right]$$
+​（话说下面为啥公式显示不出来呢？）
+
+$$\textrm{LogLoss} = - \frac{1}{n} \sum_{i=1}^n \left[ y_i \log(\hat{y}_i) + (1 - y_i) \log(1 - \hat{y}_i)\right]$$
+
 
 ### 项目策略
 ​	第一步，首先使用Keras的图片预处理函数对图片进行处理，从图片文件转换成图片数据，然后生成深度CNN模型所需要的数据输入批次。
