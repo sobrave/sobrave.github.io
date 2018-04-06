@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 这个世界的真相是哈七
+keywords: daqi, BigQ
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+人需要做正确的事情，哪怕是慢点。
 
-仰慕「优雅编码的艺术」。
+代码需要策略和刻意练习。
 
-坚信熟能生巧，努力改变人生。
+不走弯路，就是捷径。
 
 ## 联系
 
